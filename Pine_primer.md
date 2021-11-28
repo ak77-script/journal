@@ -1,3 +1,3 @@
-#Основы Pine
+# Основы Pine
 
-- [Первые шаги](/First_steps.md)
+- [Первые шаги](https://github.com/ak77-script/journal/blob/master/First_steps.md)
