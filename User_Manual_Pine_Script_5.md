@@ -172,14 +172,14 @@
     - Currency
     - Leverage
   - Tables
-Introduction
-Creating tables
-Tips
-Text and shapes
-Introduction
-`plotchar()`
-`plotshape()`
-`plotarrow()`
+    - Introduction
+    - Creating tables
+    - Tips
+  - Text and shapes
+    - Introduction
+    - `plotchar()`
+    - `plotshape()`
+    - `plotarrow()`
 Labels
 Time
 Introduction
