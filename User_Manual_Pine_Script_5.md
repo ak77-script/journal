@@ -121,13 +121,13 @@
     - Other features affecting Inputs
     - Tips
   - Levels
-`hline()` levels
-Fills between levels
-Libraries
-Introduction
-Creating a library
-Publishing a library
-Using a library
+    - `hline()` levels
+    - Fills between levels
+  - Libraries
+    - Introduction
+    - Creating a library
+    - Publishing a library
+    - Using a library
 Lines and boxes
 Introduction
 Lines
