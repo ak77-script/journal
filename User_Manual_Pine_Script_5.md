@@ -113,14 +113,14 @@
     - Mixing transparencies
     - Tips
   - Fills
-Inputs
-Introduction
-Input functions
-Input function parameters
-Input types
-Other features affecting Inputs
-Tips
-Levels
+  - Inputs
+    - Introduction
+    - Input functions
+    - Input function parameters
+    - Input types
+    - Other features affecting Inputs
+    - Tips
+  - Levels
 `hline()` levels
 Fills between levels
 Libraries
