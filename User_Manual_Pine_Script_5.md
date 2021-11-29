@@ -215,58 +215,53 @@
     - Updating a publication
 - FAQ
   - Get real OHLC price on a Heikin Ashi chart
-Get non-standard OHLC values on a standard chart
-Plot arrows on the chart
-Plot a dynamic horizontal line
-Plot a vertical line on condition
-Access the previous value
-Get a 5-days high
-Count bars in a dataset
-Enumerate bars in a day
-Find the highest and lowest values for the entire dataset
-Query the last non-na value
-Error messages
-Script requesting too many securities
-Script could not be translated from: null
-line 2: no viable alternative at character ‘$’
-Mismatched input <…> expecting <???>
-Loop is too long (> 200 ms)
-Script has too many local variables
-Pine cannot determine the referencing length of a series. Try using max_bars_back in the indicator or strategy function
-Release notes
-October 2021
-New features
-Changes
-September 2021
-July 2021
-June 2021
-May 2021
-April 2021
-March 2021
-February 2021
-January 2021
-2020
-December 2020
-November 2020
-October 2020
-September 2020
-August 2020
-July 2020
-June 2020
-May 2020
-April 2020
-March 2020
-February 2020
-January 2020
-2019
-December 2019
-October 2019
-September 2019
-July-August 2019
-June 2019
-2018
-October 2018
-April 2018
+  - Get non-standard OHLC values on a standard chart
+  - Plot arrows on the chart
+  - Plot a dynamic horizontal line
+  - Plot a vertical line on condition
+  - Access the previous value
+  - Get a 5-days high
+  - Count bars in a dataset
+  - Find the highest and lowest values for the entire dataset
+  - Query the last non-na value
+- Error messages
+  - Script requesting too many securities
+  - Script could not be translated from: null
+  - line 2: no viable alternative at character ‘$’
+  - Mismatched input <…> expecting <???>
+  - Loop is too long (> 200 ms)
+  - Script has too many local variables
+  - Pine cannot determine the referencing length of a series. Try using max_bars_back in the indicator or strategy function
+- Release notes
+  - October 2021
+    - New features
+    - Changes
+  - September 2021
+  - July 2021
+  - June 2021
+  - April 2021
+  - February 2021
+  - 2020
+    - December 2020
+    - November 2020
+    - October 2020
+    - September 2020
+    - August 2020
+    - July 2020
+    - June 2020
+    - May 2020
+    - April 2020
+    - March 2020
+    - January 2020
+  - 2019
+    - December 2019
+    - October 2019
+    - September 2019
+    - July-August 2019
+    - June 2019
+  - 2018
+    - October 2018
+    - April 2018
 2017
 August 2017
 June 2017
