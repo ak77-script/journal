@@ -15,44 +15,44 @@
   - Следующие шаги
   - 
 
-  Next steps
-    “indicators” vs “strategies”
-    How scripts are executed
-    Time series
-    Publishing scripts
-    Getting around the Pine documentation
-    Where to go from here?
-Language
-  Execution model
-    Calculation based on historical bars
-    Calculation based on realtime bars
-    Events triggering the execution of a script
-    More information
-    Execution of Pine functions and historical context inside function blocks
-  Time series
-  Script structure
-    Comments
-    Version
-    Declaration statement
-    Code
-    Line wrapping
-  Identifiers
-  Operators
-Introduction
-Arithmetic operators
-Comparison operators
-Logical operators
-`?:` ternary operator
-`[ ]` history-referencing operator
-Operator precedence
-`=` assignement operator
-`:=` reassignement operator
-Variable declarations
-Introduction
-Variable reassignment
-Declaration modes
-Conditional structures
-Introduction
+  - Next steps
+    - “indicators” vs “strategies”
+    - How scripts are executed
+    - Time series
+    - Publishing scripts
+    - Getting around the Pine documentation
+    - Where to go from here?
+- Language
+  - Execution model
+    - Calculation based on historical bars
+    - Calculation based on realtime bars
+    - Events triggering the execution of a script
+    - More information
+    - Execution of Pine functions and historical context inside function blocks
+  - Time series
+  - Script structure
+    - Comments
+    - Version
+    - Declaration statement
+    - Code
+    - Line wrapping
+  - Identifiers
+  - Operators
+    - Introduction
+    - Arithmetic operators
+    - Comparison operators
+    - Logical operators
+    - `?:` ternary operator
+    - `[ ]` history-referencing operator
+    - Operator precedence
+    - `=` assignement operator
+    - `:=` reassignement operator
+  - Variable declarations
+    - Introduction
+    - Variable reassignment
+    - Declaration modes
+  - Conditional structures
+    - Introduction
 `if` structure
 `switch` structure
 Matching local block type requirement
