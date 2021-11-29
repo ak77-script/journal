@@ -84,28 +84,28 @@
     - Manipulating arrays
     - Searching arrays
 - Concepts
-Alerts
-Introduction
-Script alerts
-`alertcondition()` events
-Avoiding repainting with alerts
-Backgrounds
-Bar coloring
-Bar plotting
-Introduction
-Plotting candles with `plotcandle()`
-Plotting bars with `plotbar()`
-Bar states
-Introduction
-Bar state built-in variables
-Example
-Chart information
-Introduction
-Prices and volume
-Symbol information
-Chart timeframe
-Session information
-Colors
+  - Alerts
+    - Introduction
+    - Script alerts
+    - `alertcondition()` events
+    - Avoiding repainting with alerts
+  - Backgrounds
+  - Bar coloring
+  - Bar plotting
+    - Introduction
+    - Plotting candles with `plotcandle()`
+    - Plotting bars with `plotbar()`
+  - Bar states
+    - Introduction
+    - Bar state built-in variables
+    - Example
+  - Chart information
+    - Introduction
+    - Prices and volume
+    - Symbol information
+    - Chart timeframe
+    - Session information
+  - Colors
 Introduction
 Constant colors
 Conditional coloring
