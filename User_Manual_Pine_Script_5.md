@@ -106,13 +106,13 @@
     - Chart timeframe
     - Session information
   - Colors
-Introduction
-Constant colors
-Conditional coloring
-Calculated colors
-Mixing transparencies
-Tips
-Fills
+    - Introduction
+    - Constant colors
+    - Conditional coloring
+    - Calculated colors
+    - Mixing transparencies
+    - Tips
+  - Fills
 Inputs
 Introduction
 Input functions
