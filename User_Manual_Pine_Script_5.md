@@ -180,19 +180,19 @@
     - `plotchar()`
     - `plotshape()`
     - `plotarrow()`
-Labels
-Time
-Introduction
-Time variables
-Time functions
-Formatting dates and time
-Timeframes
-Introduction
-Timeframe string specifications
-Comparing timeframes
-Writing scripts
-Style guide
-Introduction
+    - Labels
+  - Time
+    - Introduction
+    - Time variables
+    - Time functions
+    - Formatting dates and time
+  - Timeframes
+    - Introduction
+    - Timeframe string specifications
+    - Comparing timeframes
+- Writing scripts
+  - Style guide
+    - Introduction
 Naming Conventions
 Script organization
 Spacing
