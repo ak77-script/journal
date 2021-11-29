@@ -80,11 +80,10 @@
     - Scope
     - History referencing
     - Inserting and removing array elements
-Calculations on arrays
-Manipulating arrays
-Searching arrays
-Error handling
-Concepts
+    - Calculations on arrays
+    - Manipulating arrays
+    - Searching arrays
+- Concepts
 Alerts
 Introduction
 Script alerts
