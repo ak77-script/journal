@@ -262,36 +262,33 @@
   - 2018
     - October 2018
     - April 2018
-2017
-August 2017
-June 2017
-May 2017
-April 2017
-March 2017
-February 2017
-2016
-December 2016
-October 2016
-September 2016
-July 2016
-March 2016
-February 2016
-January 2016
-2015
-October 2015
-September 2015
-July 2015
-June 2015
-April 2015
-March 2015
-February 2015
-2014
-August 2014
-July 2014
-June 2014
-April 2014
-February 2014
-2013
+  - 2017
+    - August 2017
+    - June 2017
+    - May 2017
+    - April 2017
+    - March 2017
+    - February 2017
+  - 2016
+    - December 2016
+    - October 2016
+    - September 2016
+    - July 2016
+    - March 2016
+    - February 2016
+    - January 2016
+  - October 2015
+    - September 2015
+    - July 2015
+    - June 2015
+    - April 2015
+    - March 2015
+    - February 2015
+  - 2014
+    - August 2014
+    - June 2014
+    - February 2014
+  - 2013
 Migration guides
 To Pine version 5
 Introduction
