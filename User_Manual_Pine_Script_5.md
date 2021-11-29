@@ -61,22 +61,19 @@
     - `for`
     - `while`
   - Type system
-Introduction
-Using forms and types
-`na` value
-Type casting
-Built-ins
-Introduction
-Built-in variables
-Built-in functions
-User-defined functions
-Introduction
-Single-line functions
-Multi-line functions
-Scopes in the script
-Functions that return multiple results
-Limitations
-Arrays
+    - Introduction
+    - Using forms and types
+    - Type casting
+  - Built-ins
+    - Introduction
+    - Built-in functions
+  - User-defined functions
+    - Introduction
+    - Single-line functions
+    - Multi-line functions
+    - Scopes in the script
+    - Limitations
+  - Arrays
 Introduction
 Declaring arrays
 Reading and writing array values
