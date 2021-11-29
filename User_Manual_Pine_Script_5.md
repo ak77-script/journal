@@ -74,13 +74,12 @@
     - Scopes in the script
     - Limitations
   - Arrays
-Introduction
-Declaring arrays
-Reading and writing array values
-Looping through array elements
-Scope
-History referencing
-Inserting and removing array elements
+    - Introduction
+    - Reading and writing array values
+    - Looping through array elements
+    - Scope
+    - History referencing
+    - Inserting and removing array elements
 Calculations on arrays
 Manipulating arrays
 Searching arrays
