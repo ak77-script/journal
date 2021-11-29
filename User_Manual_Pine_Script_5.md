@@ -128,37 +128,37 @@
     - Creating a library
     - Publishing a library
     - Using a library
-Lines and boxes
-Introduction
-Lines
-Boxes
-Realtime behavior
-Limitations
-Examples
-Non-standard charts data
-Introduction
-`ticker.heikinashi()`
-`ticker.renko()`
-`ticker.linebreak()`
-`ticker.kagi()`
-`ticker.pointfigure()`
-Plots
-Introduction
-`plot()` parameters
-Plotting conditionally
-Levels
-Offsets
-Plot count limit
-Scale
-Repainting
-Introduction
-Historical vs realtime calculations
-Plotting in the past
-Dataset variations
-Sessions
-Introduction
-Session strings
-Session states
+  - Lines and boxes
+    - Introduction
+    - Lines
+    - Boxes
+    - Realtime behavior
+    - Limitations
+    -vExamples
+  - Non-standard charts data
+    - Introduction
+    - `ticker.heikinashi()`
+    - `ticker.renko()`
+    - `ticker.linebreak()`
+    - `ticker.kagi()`
+    - `ticker.pointfigure()`
+  - Plots
+    - Introduction
+    - `plot()` parameters
+    - Plotting conditionally
+    - Levels
+    - Offsets
+    - Plot count limit
+    - Scale
+  - Repainting
+    - Introduction
+    - Historical vs realtime calculations
+    - Plotting in the past
+    - Dataset variations
+  - Sessions
+    - Introduction
+    - Session strings
+    - Session states
 Using sessions with `request.security()`
 Strategies
 A simple strategy example
