@@ -193,29 +193,28 @@
 - Writing scripts
   - Style guide
     - Introduction
-Naming Conventions
-Script organization
-Spacing
-Line Wrapping
-Collapsible code sections
-Vertical alignment
-Explicit typing
-Debugging
-Introduction
-The lay of the land
-Displaying numeric values
-Displaying strings
-Debugging conditions
-Debugging from inside functions
-Debugging from inside `for` loops
-Tips
-Publishing scripts
-Script visibility and access
-Preparing a publication
-Publishing a script
-Updating a publication
-FAQ
-Get real OHLC price on a Heikin Ashi chart
+    - Naming Conventions
+    - Script organization
+    - Spacing
+    - Line Wrapping
+    - Collapsible code sections
+    - Vertical alignment
+    - Explicit typing
+  - Debugging
+    - Introduction
+    - Displaying numeric values
+    - Displaying strings
+    - Debugging conditions
+    - Debugging from inside functions
+    - Debugging from inside `for` loops
+    - Tips
+  - Publishing scripts
+    - Script visibility and access
+    - Preparing a publication
+    - Publishing a script
+    - Updating a publication
+- FAQ
+  - Get real OHLC price on a Heikin Ashi chart
 Get non-standard OHLC values on a standard chart
 Plot arrows on the chart
 Plot a dynamic horizontal line
