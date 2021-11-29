@@ -53,14 +53,14 @@
     - Declaration modes
   - Conditional structures
     - Introduction
-`if` structure
-`switch` structure
-Matching local block type requirement
-Loops
-Introduction
-`for`
-`while`
-Type system
+    - `if` structure
+    - `switch` structure
+    - Matching local block type requirement
+  - Loops
+    - Introduction
+    - `for`
+    - `while`
+  - Type system
 Introduction
 Using forms and types
 `na` value
