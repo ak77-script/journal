@@ -159,19 +159,19 @@
     - Introduction
     - Session strings
     - Session states
-Using sessions with `request.security()`
-Strategies
-A simple strategy example
-Applying a strategy to a chart
-Backtesting and forwardtesting
-Broker emulator
-Order placement commands
-Closing market position
-OCA groups
-Risk management
-Currency
-Leverage
-Tables
+    - Using sessions with `request.security()`
+  - Strategies
+    - A simple strategy example
+    - Applying a strategy to a chart
+    - Backtesting and forwardtesting
+    - Broker emulator
+    - Order placement commands
+    - Closing market position
+    - OCA groups
+    - Risk management
+    - Currency
+    - Leverage
+  - Tables
 Introduction
 Creating tables
 Tips
