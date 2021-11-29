@@ -4,7 +4,7 @@
 - [Основы Pine](https://github.com/ak77-script/journal/blob/master/Pine_primer.md)
   - [Первые шаги](https://github.com/ak77-script/journal/blob/master/First_steps.md)
      - [Введение](https://github.com/ak77-script/journal/blob/master/First_steps.md#intro)
-     - Использование скриптов
+     - [Использование скриптов](https://github.com/ak77-script/journal/blob/master/First_steps.md#using_scripts)
      - Чтение скриптов
      - Написание скриптов
   - Первый индикатор
