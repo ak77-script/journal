@@ -289,10 +289,10 @@
     - June 2014
     - February 2014
   - 2013
-Migration guides
-To Pine version 5
-Introduction
-v4 to v5 converter
+- Migration guides
+  - To Pine version 5
+    - Introduction
+    - v4 to v5 converter
 Renamed functions and variables
 Renamed function parameters
 Removed an `rsi()` overload
