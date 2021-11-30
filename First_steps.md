@@ -39,3 +39,5 @@
 
 ## <a name="browsing_community_scripts"></a>Просмотр скриптов сообщества
 На [главной странице TradingView](https://www.tradingview.com/) вы можете вызвать поток скриптов сообщества из меню «Сообщество».  Здесь мы указываем на раздел «Выбор редакции», но есть много других категорий, из которых вы можете выбрать:
+
+![Скрипты Сообщества](https://github.com/ak77-script/journal/blob/master/img3_community_scripts.jpg)
