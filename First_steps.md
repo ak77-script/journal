@@ -34,3 +34,5 @@
 Здесь выбран раздел, содержащий встроенные модули TradingView:
 
 ![Встроенные Индикаторы И  Стратегии](https://github.com/ak77-script/journal/blob/master/img2_indicators_n_strategies.jpg)
+
+## <a name="browsing_community_scripts"></a>Просмотр скриптов сообщества
